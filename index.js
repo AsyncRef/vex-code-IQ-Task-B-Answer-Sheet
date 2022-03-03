@@ -22,7 +22,7 @@ else {
 }
 
 int main() {
-// register event handlers
+  // register event handlers
   Bumper10.pressed(onevent_Bumper10_pressed_0);
 
   wait(15, msec);
