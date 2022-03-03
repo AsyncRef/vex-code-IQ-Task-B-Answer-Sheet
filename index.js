@@ -1,3 +1,4 @@
+// robotics class stufffff bruhh
 int Brain_precision = 0;
 
 float Var;
